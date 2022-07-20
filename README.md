@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stootee
 - 👀 I’m interested in data and all the tech used to manage it
 - 🌱 I’m currently learning Spark & Hadoop
-- 💞️ I’m looking to collaborate on buiding scalable data platforms
+- 💞️ I’m looking to collaborate on building scalable data platforms
 - 📫 How to reach me: stu.turner@gmx.com
 
 <!---
